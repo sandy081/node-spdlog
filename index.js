@@ -1,1 +1,1 @@
-module.exports = require('./build/Release/nodeg3log.node');
+module.exports = require('./build/Release/nodespdlog.node');

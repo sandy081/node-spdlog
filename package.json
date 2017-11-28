@@ -1,14 +1,14 @@
 {
-  "name": "g3log",
+  "name": "spdlog",
   "version": "0.1.0",
-  "description": "G3Log bindings for Node.JS",
+  "description": "spdlog bindings for Node.JS",
   "main": "index.js",
   "scripts": {
     "install": "ncmake rebuild",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "g3log",
+    "spdlog",
     "log",
     "logging"
   ],
