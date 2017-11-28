@@ -1,0 +1,23 @@
+{
+  "name": "g3log",
+  "version": "0.1.0",
+  "description": "G3Log bindings for Node.JS",
+  "main": "index.js",
+  "scripts": {
+    "install": "ncmake rebuild",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "g3log",
+    "log",
+    "logging"
+  ],
+  "author": "Microsoft",
+  "license": "MIT",
+  "dependencies": {
+    "nan": "^2.8.0"
+  },
+  "devDependencies": {
+    "node-cmake": "^2.3.2"
+  }
+}
